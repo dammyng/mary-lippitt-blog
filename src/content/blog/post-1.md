@@ -10,5 +10,6 @@ seo:
     src: '/post-1.jpg'
     alt: options-101
 ---
+
 ![A person standing at the window](/post-1.jpg)
 This is the blog content
